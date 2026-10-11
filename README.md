@@ -8,7 +8,7 @@
 
 | 专题                                                         | 学习内容                                 | 进度     |
 | ------------------------------------------------------------ | ---------------------------------------- | -------- |
-| [深入理解 AI Agent](https://chatgpt.com/c/DataWhale-ai-agent-book202610/README.md) | Agent 架构、上下文、工具、Harness 及实践 | 持续更新 |
+| [深入理解 AI Agent](./DataWhale-ai-agent-book202610/README.md) | Agent 架构、上下文、工具、Harness 及实践 | 持续更新 |
 
 ## 关于
 

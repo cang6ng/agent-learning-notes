@@ -6,7 +6,7 @@
 
 | 章节                                                         | 内容                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [第一章：AI Agent 入门](https://chatgpt.com/c/AI_Agent_Chapter1_Notes/第一章_AI_Agent入门笔记.md) | Agent 架构、ReAct、Context、Tool Calling、Workflow、Memory 与 Harness |
+| [第一章：AI Agent 入门](./AI_Agent_Chapter1_Notes/第一章_AI_Agent入门笔记.md) | Agent 架构、ReAct、Context、Tool Calling、Workflow、Memory 与 Harness |
 
 后续章节持续更新。
 
